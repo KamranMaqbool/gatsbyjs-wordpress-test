@@ -9,9 +9,10 @@ require("dotenv").config({
 });
 module.exports = {
   /* Your site config here */
-  // iteMetadata: {
-  //   stitle: "Gatsby Default Starter",
-  // },
+  iteMetadata: {
+    stitle: "Gatsby Default Starter",
+  },
+  pathPrefix: "/gatsbyjs-wordpress-test",
   plugins: [
     `gatsby-plugin-react-helmet`,
     {
