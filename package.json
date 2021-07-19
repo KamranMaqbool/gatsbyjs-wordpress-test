@@ -18,7 +18,7 @@
     "dotenv": "^8.2.0",
     "gatsby": "^2.18.12",
     "gatsby-plugin-react-helmet": "^3.1.21",
-    "gatsby-source-wordpress": "^3.1.58",
+    "gatsby-source-wordpress": "^4.0.8",
     "install": "^0.13.0",
     "npm": "^6.13.6",
     "react": "^16.12.0",
